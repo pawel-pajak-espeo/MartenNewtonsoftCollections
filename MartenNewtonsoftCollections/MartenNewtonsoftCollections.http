@@ -1,0 +1,6 @@
+@MartenNewtonsoftCollections_HostAddress = http://localhost:5244
+
+GET {{MartenNewtonsoftCollections_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
